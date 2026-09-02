@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sendwave-promo.github.io/sitemap.xml
+
+# Sendwave Promo Code XXL5W - Best referral code 2026
+# Keywords: Sendwave referral, Sendwave promo code, XXL5W, كود خصم سندويف
